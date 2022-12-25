@@ -1,0 +1,8 @@
+.site_title {
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 0 0 5px #e7125c;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: white;
+}
